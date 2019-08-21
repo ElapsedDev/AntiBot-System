@@ -1,0 +1,9 @@
+name: AntiBotSystem
+version: ${project.version}
+main: me.decide.plugin.antibotsystem.AntiBotSystem
+api-version: 1.13
+authors: [Decide]
+description: Prevents server from being botted
+commands:
+  antibot:
+    description: "Bot Detection"
