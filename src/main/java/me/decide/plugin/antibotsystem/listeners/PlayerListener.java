@@ -46,7 +46,6 @@ public class PlayerListener implements Listener {
                 staff.sendMessage(ChatUtility.color("&7&m---------------------------------------------------------"));
                 staff.sendMessage(ChatUtility.color("&e" + player.getName() + "&7: ") +  (status ? ChatUtility.color("&cBot Detected") : ChatUtility.color("&aPassed Checks")));
                 staff.sendMessage(ChatUtility.color("&7&m---------------------------------------------------------"));
-                //TitleUtility.sendActionBar(staff, ChatUtility.color("&a" + player.getName()) + " " +  (status ? ChatUtility.color("&cBot Detected") : ChatUtility.color("&aPassed Checks")));
             }
 
         }
