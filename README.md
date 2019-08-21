@@ -9,3 +9,7 @@
 * Add a UUID/IP command blacklist
 * Add better encrypted ip storage
 * Add more commands and notificaiton system
+
+
+# Dynamic Series
+![Logo](https://cdn.discordapp.com/attachments/389298337565638656/613587159768891412/1513584737_CcIlYcp.gif)
