@@ -1,4 +1,6 @@
 # Decide AntiBot System
+
+* [Updated Jar Download](https://github.com/D3cide/AntiBotSystem/raw/master/jar/AntiBotSystem-1.0-SNAPSHOT.jar)
 * Uses a machine learning API to check the IP
 * Checks for Blacklisted/Spam IPs
 * Stores IPs that have been passed/blacklisted preventing another query search
