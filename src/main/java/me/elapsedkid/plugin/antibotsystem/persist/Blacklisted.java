@@ -1,4 +1,4 @@
-package me.decide.plugin.antibotsystem.persist;
+package me.elapsedkid.plugin.antibotsystem.persist;
 
 import net.prosavage.baseplugin.serializer.Serializer;
 

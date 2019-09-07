@@ -1,8 +1,8 @@
-package me.decide.plugin.antibotsystem.utils;
+package me.elapsedkid.plugin.antibotsystem.utils;
 
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import me.decide.plugin.antibotsystem.persist.Config;
+import me.elapsedkid.plugin.antibotsystem.persist.Config;
 
 import java.io.InputStreamReader;
 import java.net.URL;

@@ -1,4 +1,4 @@
-package me.decide.plugin.antibotsystem.utils;
+package me.elapsedkid.plugin.antibotsystem.utils;
 
 import org.bukkit.ChatColor;
 

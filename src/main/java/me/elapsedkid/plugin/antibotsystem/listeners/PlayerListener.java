@@ -1,10 +1,10 @@
-package me.decide.plugin.antibotsystem.listeners;
+package me.elapsedkid.plugin.antibotsystem.listeners;
 
-import me.decide.plugin.antibotsystem.persist.Blacklisted;
-import me.decide.plugin.antibotsystem.persist.Config;
-import me.decide.plugin.antibotsystem.persist.Whitelisted;
-import me.decide.plugin.antibotsystem.utils.ChatUtility;
-import me.decide.plugin.antibotsystem.utils.CheckUtility;
+import me.elapsedkid.plugin.antibotsystem.persist.Blacklisted;
+import me.elapsedkid.plugin.antibotsystem.persist.Config;
+import me.elapsedkid.plugin.antibotsystem.persist.Whitelisted;
+import me.elapsedkid.plugin.antibotsystem.utils.ChatUtility;
+import me.elapsedkid.plugin.antibotsystem.utils.CheckUtility;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

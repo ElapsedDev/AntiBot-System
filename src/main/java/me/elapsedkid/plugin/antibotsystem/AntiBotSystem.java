@@ -1,10 +1,10 @@
-package me.decide.plugin.antibotsystem;
+package me.elapsedkid.plugin.antibotsystem;
 
-import me.decide.plugin.antibotsystem.commands.CommandAntibot;
-import me.decide.plugin.antibotsystem.listeners.PlayerListener;
-import me.decide.plugin.antibotsystem.persist.Blacklisted;
-import me.decide.plugin.antibotsystem.persist.Config;
-import me.decide.plugin.antibotsystem.persist.Whitelisted;
+import me.elapsedkid.plugin.antibotsystem.commands.CommandAntibot;
+import me.elapsedkid.plugin.antibotsystem.listeners.PlayerListener;
+import me.elapsedkid.plugin.antibotsystem.persist.Blacklisted;
+import me.elapsedkid.plugin.antibotsystem.persist.Config;
+import me.elapsedkid.plugin.antibotsystem.persist.Whitelisted;
 import net.prosavage.baseplugin.BasePlugin;
 import org.bukkit.Bukkit;
 import org.bukkit.scheduler.BukkitRunnable;
